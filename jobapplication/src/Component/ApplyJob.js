@@ -10,7 +10,7 @@ const ApplyJob = () => {
     // Initialize state to manage FormVisible status
     const [isFormVisible, setIsFormVisible] = useState(false);
 
-
+   console.log('test')
     // Initialize state to manage EducationFormVisible status
     const [isEducationFormVisible, setIsEducationFormVisible] = useState(false);
 
